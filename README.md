@@ -1,5 +1,5 @@
 ## Hi! I'm Arthur!
->Trying to become a developer during my teenage years. Just for fun..?
+>You won't find much here... Just a few different projects that I have done.
 
 - 💻 **Favorite Language(s):** Typescript/Javascript -> NodeJS
 - 📚 **Studying:** Java
