@@ -4,7 +4,7 @@
 - 💻 **Favorite Language(s):** Typescript/Javascript -> NodeJS
 - 📚 **Studying:** Java
 
-- 🌈 **Pronouns:** He/Him
+- 🌈 **Pronouns:** He/His
 
 <div align="left" id="github-stats">
   <a href="https://github.com/thuuhh"/>
